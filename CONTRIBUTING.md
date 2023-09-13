@@ -1,56 +1,15 @@
 # Contributing
 
-Welcome to Cloudflare OpenSource! We're super excited to have you here. This document contains
-the best practices for contributing to our repositories.
+# RSS Builder by B!Soft MarkBook RSS Feed
 
-## Filing an Issue
-
-If you are using one of our open source projects- you'll likely begin interacting with us by
-filing an issue. Regardless of whether you think the issue is with the project itself, if you're
-having trouble using the project, feel free to file an issue on the repo.
-
-**If you have a feature request, please file an issue before making a PR.** Everyone's time is
-incredibley valuable, so if you have an idea for a feature, please file an issue. This way we
-can have a discussion with you, and the community, about the design, before you have sunk a
-bunch of time into developing it. 
-
-**You do not need to file an issue for small fixes.** If you are fixing a typo or refactoring
-a bit of code, you likely don't need to file an issue. This is a judgement call, and *sometimes*
-we may review your PR and ask you to file an issue if we expect there are larger design decisions
-to be made.
-
-**Each repository has an Issue Template.** This helps us make sure that you can give us the most
-information about your issue upfront, so we can limit the amount of back and forth required
-before your issue can be resolved. Do your best to fill it out, but if you have trouble, it's
-ok to file an incomplete issue template.
-
-## Making a PR
-
-**If you are considering filing a pull request, make sure that there's an issue filed for the work
-you'd like to do.** There might be some discussion required! Filing an issue first will help ensure
-that the work you put into your pull request will get merged.
-
-Once your PR is made, it will be labelled *needs review*. A maintainer will review your PR as soon
-as they can. The reviewer may ask for changes- they will mark the PR as *changes requested* and
-*work in progress* and will give you details about the requested changes. Feel free to ask lots of
-questions! The maintainers are there to help you!
-
-### IDE Configuration Files
-
-Machine specific configuration files may be generaged by your IDE while working on the project. Please make sure to add these files to a global .gitignore so they are kept from accidentally being commited to the project and causing issues for other contributors.
-
-Some examples of these files are the .idea folder created by JetBrains products (WebStorm, IntelliJ, etc) as well as .vscode created by Visual Studio Code for workspace specific settings.
-
-For help setting up a global `.gitignore` check out this [GitHub article](https://help.github.com/articles/ignoring-files/#create-a-global-gitignorea)!
-
-## Conduct
-
-Cloudflare OpenSource follows the [Contributor Covenant Code of Conduct]. You can find a copy in each
-of our repositories. Violating the CoC could result in a warning or a ban to any and all repositories
-in this origanization.
-
-[Contributor Covenant Code of Conduct]: CODE_OF_CONDUCT.md
-
-## Contact
-
-If you have any questions, please reach out to [opensource@cloudflare.com](mailto:opensource@cloudflare.com).
+https://www.markbook.com MarkBook RSS Feed. Keep up to date on the latest news. en-us mrichardson@acadiemgroup.com The Acadiem Group 2020 NEW MarkBook HTML5 is Here! 10 Oct 2020 10:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News Our ALL NEW MarkBook HTML5 Web Application is Here! Flash or Flex is no longer required. Many added features in a clean new look. Now you can use MarkBook on your Chromebook, Android or iPadOS tablet as well as Windows, macOS or Linux devices. (Select tablets only) A new version of the app, 1.1.0 22 Dec 2020 16:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.1.0, has been launched. It contains a major security update. Please see the Release Notes for the details. A new version of the app, 1.2.0 26 Jan 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.2.0, has been launched. You can now Copy Comments to many students at once and easily input entries on tablets using Numeric Keypad. Please see the Release Notes for the details. A new version of the app, 1.3.0 25 Mar 2021 17:30:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.3.0, has been launched. Please see the Release Notes for the details. A new version of the app, 1.4.0 30 Apr 2021 08:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News A new version of the app, 1.4.0, has been launched. Please see the Release Notes for the details. For TDSB users 6 Aug 2021 08:00:00 -0400 http://tdsb.on.ca/ mrichardson@acadiemgroup.com News TDSB users: In preparation for Single Sign On service in September, all usernames now use your Toronto District School Board email address. TDSB-logo.png Attention TDSB Users 18 Sep 2021 01:00:00 -0400 
+https://www.markbook.com mrichardson@acadiemgroup.com News On Saturday September 18th, Single Sign On (SSO) will be implemented for TDSB MarkBook (Cloud) users. After the implementation is completed, teachers will be required to sign onto MarkBook using their TDSB e- mail address and password. Teachers that are already signing onto MarkBook with their TDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TDSB-logo.png For TVDSB Users 09 Sep 2022 01:00:00 -0400 
+https://www.markbook.com News On Tuesday, September 6th, Single Sign On (SSO) was implemented for TVDSB MarkBook (Cloud) users. Teachers are now required to sign onto MarkBook using their TVDSB e-mail address and password in the Microsoft 365 Apps environment. Please follow the Information Guidesheet for "Transfer from Individual to Corporate Domain using SSO in MarkBook®”. Teachers that are already signing onto MarkBook with their TVDSB email address will have their existing class data maintained. Teachers that are currently using personal email accounts will need to contact 
+support@markbookapp.com to request existing class data transfers, if required. TVDSB-logo.webp WECDSB 31 Oct 2022 01:00:00 -0400 
+https://www.markbook.com News WECDSB users, please ensure that you have updated ALL of your courses with the most recent Aspen extract that has your first initial and last name in the file name (i.e. see below). Furthermore, please ensure you have submitted a copy (screenshots) of your updated courses to your school-issued Google form. WECDSB-logo.png
