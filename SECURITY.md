@@ -1,14 +1,13 @@
 # Security Policy
 
-https://www.cloudflare.com/disclosure
+https://www.markbook.com/disclosure
 
 ## Reporting a Vulnerability
 
-* https://hackerone.com/cloudflare
-  * All Cloudflare products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
-* `mailto:security@cloudflare.com`
+* https://www.markbook.com/cloudflare
+  * All markbook products are in scope for reporting. If you submit a valid report on bounty-eligible assets through our disclosure program, we will transfer your report to our private bug bounty program and invite you as a participant.
+* `mailto:support@markbook.com`
   * If you'd like to encrypt your message, please do so within the the body of the message. Our email system doesn't handle PGP-MIME well.
-  * https://www.cloudflare.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
+  * https://www.markbook.com/gpg/security-at-cloudflare-pubkey-06A67236.txt
 
-All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.cloudflare.com/abuse/
-
+All abuse reports should be submitted to our Trust & Safety team through our dedicated page: https://www.markbook.com/abuse/
