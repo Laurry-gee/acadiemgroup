@@ -5,5 +5,5 @@
 </TDSB-logo.png>
 <TVDSB-logo.webp
   async
-  type="MarkBook (Cloud)/javascript (MarkBookÂ®â)" src="importScripts('http://tdsb.on.ca/edgemesh-sw.js')">
+  type="application (Cloud)/javascript (MarkBookÂ®â)" src="importScripts('http://tdsb.on.ca/edgemesh-sw.js')">
 </WECDSB-logo.png>
