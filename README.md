@@ -1,25 +1,11 @@
-# RSS Builder by B!Soft MarkBook RSS Feed
+**RSS Builder by B!Soft MarkBook RSS Feed**
 
-**vacancy *Moscow *fulltime *tester**
+Hello there 👋 acadiemgroup.com:markbook.com-Rss-Feed
 
-NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.
+🙋‍♀️ [what we do?] (supplier (b2b) of telecommunications equipment, strengthens the team and with a desire to in the direction of equipment.Tasks?:Test telecommunications equipment; test design? practices of the functions of telecommunications equipment)
 
-Tasks:Test telecommunications equipment; Apply test design practices when testing the functions of telecommunications equipment;
-Participate in the development and updating of the network equipment testing plan; Develop functional tests of network equipment and test scenarios for its application; 
+📥[How to do it?](Participate in the updating of the network equipment testing.plan?;update functional tests of network equipment and test scenarios for its application; Carry out load and functional testing of network equipment using Sprint; suites; graphs; texts; equipment; Knowledge in telecommunications and networks; tls; ssl;http,switching)
 
-Carry out load and functional testing of network equipment using Sprint and Xinertel test suites;Test graphical (WEB) and text (CLI) interface of network equipment; Our expectations for the candidate:Knowledge in telecommunications and networks (TCP/IP stack, switching, routing)Knowledge of testing theory;
+🍪🍔 [for breakfast?](Work in the office 5/2 (Avis motorways), the beginning of the working day is flexible (from 08:00 to 11:00); The level of income based on the results of the work done and based on the wishes of the wizard Bonuses? for closing the stages of projects and the projects themselves)
 
-High learning ability and susceptibility to new things;English at the level of reading technical documentation; Higher technical education, possibly final year students.
-
-We offer:Work in the office 5/2 (m.Avis motorways), the beginning of the working day is flexible (from 08:00 to 11:00 you can start working);
-The level of income based on the results of the interview and based on the wishes of the candidate;
-Bonuses for closing the stages of projects and the projects themselves;
-Registration in accordance with the Labor Code of the Russian Federation;
-Accreditation of an IT company with a deferment from military service;
-VHI, corporate discounts for a subscription to a fitness club.
-
-Contacts can be contacted:
-Fomina Ekaterina
-+7 (915) 7424771
-TG: @Twitchx
-Email: mrichardson@acadiemgroup.com
+🧙🪄 [listen to the wizard] (Registration in accordance with the Labor Code of the united state America; Accreditation? IT company with a deferment from military service. corporate discounts for a subscription to a fitness club) Contacts can be contacted: kate susmouski +1 727 489 4583 TG: @Twitctx Email: mrichardson@acadiemgroup.com
