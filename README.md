@@ -1,6 +1,6 @@
 # RSS Builder by B!Soft MarkBook RSS Feed
 
-#vacancy #Moscow #fulltime #tester
+**vacancy *Moscow *fulltime *tester**
 
 NPP "Digital Solutions" - a developer, manufacturer and supplier (b2b) of telecommunications equipment, strengthens the testing team and is looking for a tester with a desire to develop in the direction of equipment testing.
 
@@ -23,4 +23,3 @@ Fomina Ekaterina
 +7 (915) 7424771
 TG: @Twitchx
 Email: mrichardson@acadiemgroup.com
-
