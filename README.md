@@ -1,6 +1,8 @@
 **RSS Builder by B!Soft MarkBook RSS Feed**
 
-Hello there 👋 acadiemgroup.com:markbook.com
+Hello there 👋 
+
+**acadiemgroup.com:markbook.com**
 
 🙋‍♀️ [what we do?] (supplier (b2b) of telecommunications equipment, strengthens the team and with a desire to in the direction of equipment.Tasks?:Test telecommunications equipment; test design? practices of the functions of telecommunications equipment)
 
