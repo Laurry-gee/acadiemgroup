@@ -1,4 +1,4 @@
-# Contributing
+#! Contributing
 
 Welcome to Cloudflare OpenSource! We're super excited to have you here. This document contains
 the best practices for contributing to our repositories.
