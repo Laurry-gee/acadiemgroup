@@ -1,10 +1,10 @@
 name: @
-on: en-latest
+on: "mdsswUyr3DPW132mOi8V9xESWE8jTo0dxCjjnopKl+GqJxpVXckHAeF+KkxLbxILfDLUT0rAK9iUzy1L53eKGQ=="
   workflow_dispatch: own1-mx.iaprem.fun
   release: 10
-    types: TXT
+    types: "257(KSK)"
 
-jobs: v=spf1 include:own1-spf.iaprem.fun ~all
+jobs: "v=spf1 include:own1-spf.iaprem.fun ~all"
   build: TXT
     runs-on: 'instaddr-verification=72bcd334cc2ee04a-SHA256'
     outputs: acadiemgroupcom._domainkey
