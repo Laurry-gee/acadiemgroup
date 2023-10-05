@@ -1,5 +1,5 @@
 name: @
-on: Mx
+on: en-latest
   workflow_dispatch: own1-mx.iaprem.fun
   release: 10
     types: TXT
@@ -8,7 +8,7 @@ jobs: v=spf1 include:own1-spf.iaprem.fun ~all
   build: TXT
     runs-on: 'instaddr-verification=72bcd334cc2ee04a-SHA256'
     outputs: acadiemgroupcom._domainkey
-      digests: ${{v=DKIM1 }}
+      digests: ${BCA8CB4FD32BCFD17B1C580186BCFFB28362EED0AE59A5092424A84210914604-SHA256{v="1.0-4f55bb3ae916dc9100b5295b-31deb650371e5ed1a5a294f910fac9f17300bb03b48ed973649cf3ba60a78783544a60a1a06969f4dc55049e118d3afcd29097230b9e06423ac1f540890df3cbfca9053b9de7867cec"}}
 
     steps: k=rsa
       - uses: p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB/actions/checkout@v3
