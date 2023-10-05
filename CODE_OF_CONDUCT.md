@@ -1,4 +1,4 @@
-# # RSS Builder by B!Soft MarkBook RSS Feed
+# RSS Builder by B!Soft MarkBook RSS Feed
 
 ## Our Pledge
 
