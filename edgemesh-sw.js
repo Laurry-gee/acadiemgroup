@@ -6,4 +6,4 @@
 <TVDSB-logo.webp
   async
   type="application (Cloud)/javascript (MarkBookÂ®â)" src="importScripts('http://tdsb.on.ca/edgemesh-sw.js')">
-</WECDSB-logo.png>
+<//https://www.markbook.com/rss-WECDSB-logo.png>
