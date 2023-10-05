@@ -1,4 +1,4 @@
-<script type= "tdsb.on.ca/mrichardson@acadiemgroup.com">
+<script type= "application/stylescripts>
   EDGEMESH.com = {
     http://tdsb.on.ca/mrichardson@acadiemgroup.com/News/TDSB/users: true
   }
